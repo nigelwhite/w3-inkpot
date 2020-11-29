@@ -1,0 +1,71 @@
+.img-hannah {
+	max-width: 250px;
+}
+
+.branding {
+	font-size: 1.75rem;
+}
+
+.hero {
+	background: url('../img/cloudscape.jpg') no-repeat;
+	background-position: center;
+	height: 475px;
+	padding: 50px 0;
+	color: #fff;
+}
+
+.hero h1 {
+	font-size: 2rem;
+	font-weight: 700;
+}
+
+.hero p {
+	font-size: 1.5rem;
+}
+
+.hero hr {
+	width: 100px;
+	margin: auto;
+	border-width: 3px;
+	border-color: #f44336;
+}
+
+.hero p {
+	padding-bottom: 20px;
+}
+
+.family {
+	background: url('../img/family.jpg') no-repeat;
+	background-position: center;
+	height: 792px;
+	padding: 50px 0;
+}
+
+.section-1 .container-padding {
+	/* width: 100%; */
+	padding-top: 66.66%;
+	position: relative;
+}
+
+.section-1 .inner-container {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+}
+
+.youtube-responsive-container {
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+}
+
+.youtube-responsive-container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

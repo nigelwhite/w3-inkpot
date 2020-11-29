@@ -1,0 +1,1 @@
+struggling with responsive layout on section 1
